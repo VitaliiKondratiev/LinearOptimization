@@ -1,1 +1,2 @@
-# LinearOptimization
+# MMethod
+Semester project
